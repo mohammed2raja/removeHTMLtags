@@ -1,2 +1,0 @@
-# removeHTMLtags
-Created with CodeSandbox
